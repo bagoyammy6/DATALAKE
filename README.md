@@ -4,8 +4,6 @@
 
 - 請參考：<https://github.com/bagoyammy6/Scroll>
 
----
-
 ## Q2
 
 ```javascript
@@ -39,13 +37,9 @@ function combineUserOrders(users, orders) {
 const userOrders = combineUserOrders(users, orders);
 ```
 
----
-
 ## Q3
 
 - 請參考：<https://github.com/bagoyammy6/Search>
-
----
 
 ## EC1
 
@@ -112,8 +106,6 @@ mySet.clear();
 console.log(mySet.size()); // 0
 ```
 
----
-
 ## EC2
 
 ```javascript
@@ -179,8 +171,6 @@ queue.size();
 // 列印出佇列內容：b,c,d
 queue.print();
 ```
-
----
 
 ## EC3
 
